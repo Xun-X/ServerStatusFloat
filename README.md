@@ -14,6 +14,7 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(Server
 
 ##### 参考如下设置即可：
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots2.png)
+
 特别说明：[设备名称配置]填入的名称与WEB上对应的[节点名]相同即可
  
 #### ServerStatus探针 服务端 安装：
@@ -29,3 +30,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/iiiiiii1/doubi/
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh c
 ```
+#### 下载地址：
+蓝奏云下载：[https://www.lanzouw.com/iq9Ty1x5rxoj](https://www.lanzouw.com/iq9Ty1x5rxoj "蓝奏云下载")
