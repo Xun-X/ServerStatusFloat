@@ -16,7 +16,13 @@ Windows上显示一个半透明的飘浮窗，实时监看服务器状态(Server
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots2.png)
 
 特别说明：[设备名称配置]填入的名称与WEB上对应的[节点名]相同即可
- 
+
+##### 小窗模式：
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots3.png)
+
+##### 大窗模式：
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots4.png)
+
 #### ServerStatus探针 服务端 安装：
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/iiiiiii1/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
