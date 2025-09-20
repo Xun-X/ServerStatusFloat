@@ -1,31 +1,84 @@
-# ServerStatusW
-Windows上显示一个半透明的飘浮窗，实时监看服务器状态(ServerStatus探针)
+# ServerStatusFloat
+[![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/ServerStatusFloat)
+[![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=cokemine&color=97C40F)](https://github.com/cokemine/ServerStatus-Hotaru)
+[![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
+
+Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
+
+关键词：`ServerStatus-Hotaru 探针` `ServerStatus 探针` `ServerStatus Windows 监视窗` `ServerStatus 漂浮窗`
+
+##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
+
+##### 注意：因为人懒，本项目不跟随官方最新版本更新，基于v0.4.X 版本开发，安装探针在底部有【一键脚本】
 
 ##### 效果展示：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots3.png)
+# 详细主题 全显示
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_1.png)
+
+# 详细主题 单个显示
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_2.png)
+
+# 简略小窗
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_3.png)
+
+# 简略大窗
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_4.png)
+
+
 
 ##### 程序说明：
-本程序是读取[ServerStatus探针]服务端WEB数据用于飘浮窗显示服务器状态，所以服务器需要安装[ServerStatus探针]
+本程序是读取搭建好的[ServerStatus-Hotaru探针]服务端WEB端数据经过处理后用于飘浮窗显示服务器状态，所以服务器需要安装[ServerStatus探针]主控服务端程序
 
-主程序首次启动会在运行目录下创建一个抓取服务器数据的程序并运行，抓取到数据会发送到主程序的[49431]端口
+主程序启动后会在所在的目录下创建一个抓取服务器数据的EXE程序并运行，抓取到数据会发送到主程序的[49233]端口
 
-主程序收到数据会处理并显示出服务器实时流量信息，抓取间隔时间可在设置中配置
+主程序收到数据会处理并显示出服务器实时的信息，抓取间隔时间可在设置中配置，建议2秒或以上
 
 ##### 设置简单说明：
-例：[ServerStatus探针]访问地址是：```http://tanzhen.hostname.com:808```
+例：[哪吒探针]访问地址是：```http://tanzhen.hostname.com:808```
+
 如图：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots1.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_5.png)
 
 ##### 参考如下设置即可：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots2.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_6.png)
 
-特别说明：[设备名称配置]填入的名称与WEB上对应的[节点名]相同即可
+特别说明：
+```
+1、 [设备名称配置] 填入的 [内容] 与WEB上对应的 [服务器名称] 相同即可 
+2、 服务器WEB地址建议用不套cdn的地址，以免抓取数据不稳定(直连更不稳的除外)
+```
 
 ##### 小窗模式：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots3.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_3.png)
 
 ##### 大窗模式：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusW/main/Screenshots4.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_4.png)
+
+##### 主题3-详细模式（单个显示）：
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_2.png)
+
+##### 主题3-详细模式：
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_1.png)
+
+
+
+# 特别说明
+本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0，[点击查看一键安装脚本](https://github.com/Xun-X/Nezha-v0 "一键安装哪吒V0") ！
+
+# 更新历史
+更新版本(v1.8)：
+```
+软件已更名为【ServerStatusFloat】，原本使用哪吒v0养老版本的，但是近期发现v0管理后台已经无法添加删除服务器了，v1又过于花里胡哨，最终还是决定
+
+使用早期使用的ServerStatus探针，现有的界面和功能也是在之前做的【Nezha-Server-Status】直接改的，没有太多优化，所以在启动速度上确实是慢了不少，不过启动慢
+
+不影响正常使用，也就直接发布了
+```
+
+
+
 
 #### ServerStatus探针 服务端 安装：
 ```
@@ -41,7 +94,7 @@ wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/statu
 bash status.sh c
 ```
 #### 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/iq9Ty1x5rxoj](https://www.lanzouw.com/iq9Ty1x5rxoj "蓝奏云下载")
+蓝奏云下载：[https://www.lanzouw.com/xxx](https://www.lanzouw.com/xxx "蓝奏云下载")
 
 这是发布版本，就不公开源码了(小白也看不懂)非主流语言编写的。再加上做得很粗糙，就不放出来显摆(丟人現眼)了
 
