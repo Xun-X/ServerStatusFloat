@@ -5,9 +5,9 @@
 [![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
 
-Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
+探针漂浮窗，Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
 
-关键词：`ServerStatus-Hotaru 探针` `ServerStatus 探针` `ServerStatus Windows 监视窗` `ServerStatus 漂浮窗`
+关键词：`ServerStatus 探针漂浮窗` `ServerStatus-Hotaru 探针 漂浮窗` `ServerStatus 探针` `ServerStatus Windows 监视窗` `ServerStatus 漂浮窗`
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
