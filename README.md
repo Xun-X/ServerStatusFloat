@@ -3,7 +3,7 @@
 [![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=cokemine&color=97C40F)](https://github.com/cokemine/ServerStatus-Hotaru)
 [![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/Nezha-Server-Status)
 [![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
-[![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=网盘下载&color=F48041)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=点击下载&color=F48041)](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip)
 
 探针漂浮窗，Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
 
@@ -15,16 +15,16 @@
 
 ## 效果展示：
 #### 详细主题 全显示
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_1.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_1.png)
 
 #### 详细主题 单个显示
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_2.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_2.png)
 
 #### 简略小窗
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_3.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_3.png)
 
 #### 简略大窗
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_4.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_4.png)
 
 
 
@@ -41,29 +41,16 @@
 例：[哪吒探针]访问地址是：```http://tanzhen.hostname.com:808```
 
 如图：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_5.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_5.png)
 
 ##### 参考如下设置即可：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_6.png)
+![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_6.png)
 
 特别说明：
 ```
 1、 [设备名称配置] 填入的 [内容] 与WEB上对应的 [服务器名称] 相同即可 
 2、 服务器WEB地址建议用不套cdn的地址，以免抓取数据不稳定(直连更不稳的除外)
 ```
-
-##### 小窗模式：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_3.png)
-
-##### 大窗模式：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_4.png)
-
-##### 主题3-详细模式（单个显示）：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_2.png)
-
-##### 主题3-详细模式：
-![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_1.png)
-
 
 
 #### 特别说明
@@ -98,7 +85,7 @@ wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/statu
 bash status.sh c
 ```
 #### 下载地址：
-蓝奏云下载：[https://www.lanzouw.com/xxx](https://www.lanzouw.com/xxx "蓝奏云下载")
+GITHUB下载：[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip]([https://www.lanzouw.com/xxx](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip) "GITHUB下载")
 
 这是发布版本，就不公开源码了(小白也看不懂)非主流语言编写的。再加上做得很粗糙，就不放出来显摆(丟人現眼)了
 
