@@ -13,22 +13,22 @@
 
 ##### 注意：因为人懒，本项目不跟随官方最新版本更新，基于v0.4.X 版本开发，安装探针在底部有【一键脚本】
 
-##### 效果展示：
-# 详细主题 全显示
+## 效果展示：
+#### 详细主题 全显示
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_1.png)
 
-# 详细主题 单个显示
+#### 详细主题 单个显示
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_2.png)
 
-# 简略小窗
+#### 简略小窗
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_3.png)
 
-# 简略大窗
+#### 简略大窗
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/inages_4.png)
 
 
 
-##### 程序说明：
+## 程序说明：
 本程序是读取搭建好的[ServerStatus-Hotaru探针]服务端WEB端数据经过处理后用于飘浮窗显示服务器状态，所以服务器需要安装[ServerStatus探针]主控服务端程序
 
 主程序启动后会在所在的目录下创建一个抓取服务器数据的EXE程序并运行，抓取到数据会发送到主程序的[49233]端口
@@ -64,10 +64,10 @@
 
 
 
-# 特别说明
+#### 特别说明
 本项目不跟随哪吒探针继续升级，为哪吒V0养老版本，关于如何安装哪吒V0，[点击查看一键安装脚本](https://github.com/Xun-X/Nezha-v0 "一键安装哪吒V0") ！
 
-# 更新历史
+#### 更新历史
 更新版本(v1.8)：
 ```
 软件已更名为【ServerStatusFloat】，原本使用哪吒v0养老版本的，但是近期发现v0管理后台已经无法添加删除服务器了，v1又过于花里胡哨，最终还是决定
@@ -100,7 +100,7 @@ bash status.sh c
 
 本程序无后门，无上传数据功能，启动会检查是否有新版本升级，此外无其他联网功能。
 
-## 关于 [ 被害妄想症 ] 的完美解决方案
+### 关于 [ 被害妄想症 ] 的完美解决方案
 方案1：`关闭这个页面(不开源的都是病毒见不得人，即使开源也看不懂`
 
 方案2：`找其他人帮你试 “毒”`
