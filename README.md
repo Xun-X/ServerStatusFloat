@@ -1,8 +1,8 @@
 # ServerStatusFloat
 [![Xun-X](https://img.shields.io/static/v1?label=作者&message=Xun-X&color=F36CB0)](https://github.com/Xun-X/ServerStatusFloat)
 [![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=cokemine&color=97C40F)](https://github.com/cokemine/ServerStatus-Hotaru)
-[![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/Nezha-Server-Status)
-[![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/Nezha-Server-Status)
+[![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/ServerStatusFloat)
+[![Xun-X](https://img.shields.io/static/v1?label=软件性质&message=免费、非开源&color=1081C2)](https://github.com/Xun-X/ServerStatusFloat)
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=点击下载&color=F48041)](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip)
 
 探针漂浮窗，Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
