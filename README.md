@@ -72,7 +72,7 @@
 ```
 
 .
-## 下载/搭建主控端
+## 搭建主控端/下载悬浮窗/下载探针
 .
 
 #### ServerStatus-Hotaru 探针主控端(debian/ubuntu/centos) 一键安装脚本(服务端)：
