@@ -78,23 +78,25 @@
 探针主控端：一台服务器负责汇集所有其他服务器数据并提供WEB访问页面
 
 探针客户端：可以把手上所有的服务器/电脑都安装上客户端，并配置好主控端服务器的IP地址和加入主控端的参数，
-
-           即可把数据上传到主控端，在主控端即可方便查看已加入的服务器状态
+即可把数据上传到主控端，在主控端即可方便查看已加入的服务器状态
 
 探针监控悬浮窗：读取探针主控端WEB的数据，实时在悬浮窗上显示服务器状态，无需访问主控的WEB网页就能查看服务器状态
 
 #### 其中探针客户端提供3个版本
 
-[探针客户端版本1](https://github.com/xun-X/serverStatusFloat#serverstatus-hotaru-%E6%8E%A2%E9%92%88%E5%AE%A2%E6%88%B7%E7%AB%AFdebianubuntucentos-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E5%AE%A2%E6%88%B7%E7%AB%AF)（debian/ubuntu/centos）：ServerStatus-Hotaru原版客户端，需要安装和服务端一样的caddy依赖
+[探针客户端版本1](https://github.com/xun-X/serverStatusFloat#serverstatus-hotaru-%E6%8E%A2%E9%92%88%E5%AE%A2%E6%88%B7%E7%AB%AFdebianubuntucentos-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E5%AE%A2%E6%88%B7%E7%AB%AF)（debian/ubuntu/centos）：
 
-[探针客户端版本2](https://github.com/xun-X/serverStatusFloat#status-client-%E6%8E%A2%E9%92%88%E5%AE%A2%E6%88%B7%E7%AB%AFdebianubuntu-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E5%AE%A2%E6%88%B7%E7%AB%AF-go%E8%AF%AD%E8%A8%80%E7%BC%96%E5%86%99-%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E6%97%A0%E9%9C%80%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96%E5%8D%95%E7%A8%8B%E5%BA%8F)（debian）：ServerStatus-Hotaru原作者通过GO语言编译的单程序版本，我只做了debian一键安装脚
+ServerStatus-Hotaru原版客户端，需要安装和服务端一样的caddy依赖
 
-                        本，配置更简单步骤更少，很适合不想要占用太多服务器资源和系统环境使用，强烈推荐
 
-[探针客户端版本3](https://github.com/xun-X/serverStatusFloat#status-windows-%E6%8E%A2%E9%92%88%E5%AE%A2%E6%88%B7%E7%AB%AFwindows%E5%8F%AF%E8%A7%86%E5%8C%96%E9%85%8D%E7%BD%AE%E6%97%A0%E9%9C%80%E6%95%B2%E6%8C%87%E4%BB%A4-github%E4%B8%8B%E8%BD%BD)（Windows）：也是使用原作者编译的GO语言编译的Windows版本，我打包制作成单EXE程序，简单可视化
+[探针客户端版本2](https://github.com/xun-X/serverStatusFloat#status-client-%E6%8E%A2%E9%92%88%E5%AE%A2%E6%88%B7%E7%AB%AFdebianubuntu-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E5%AE%A2%E6%88%B7%E7%AB%AF-go%E8%AF%AD%E8%A8%80%E7%BC%96%E5%86%99-%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E6%97%A0%E9%9C%80%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96%E5%8D%95%E7%A8%8B%E5%BA%8F)（debian）：
 
-                         的就可以配置好Windows操作系统的服务器/电脑向主控上传机器状态
-                         
+ServerStatus-Hotaru原作者通过GO语言编译的单程序版本，我只做了debian一键安装脚本，配置更简单步骤更少，很适合不想
+要占用太多服务器资源和系统环境使用，强烈推荐
+
+[探针客户端版本3](https://github.com/xun-X/serverStatusFloat#status-windows-%E6%8E%A2%E9%92%88%E5%AE%A2%E6%88%B7%E7%AB%AFwindows%E5%8F%AF%E8%A7%86%E5%8C%96%E9%85%8D%E7%BD%AE%E6%97%A0%E9%9C%80%E6%95%B2%E6%8C%87%E4%BB%A4-github%E4%B8%8B%E8%BD%BD)（Windows）：
+
+也是使用原作者编译的GO语言编译的Windows版本，我打包制作成单EXE程序，简单可视化的就可以配置好Windows操作系统的服务器/电脑向主控上传机器状态
 
 ·
 
