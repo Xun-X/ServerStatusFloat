@@ -71,28 +71,30 @@
 
 
 
-#### ServerStatus-Hotaru debian/ubuntu探针主控端 一键安装脚本(服务端)：
+#### ServerStatus-Hotaru 探针主控端(debian/ubuntu/centos) 一键安装脚本(服务端)：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh s
 ```
 
-#### ServerStatus-Hotaru debian/ubuntu探针客户端 一键安装脚本(客户端)：
+#### ServerStatus-Hotaru 探针客户端(debian/ubuntu/centos) 一键安装脚本(客户端)：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh c
 ```
 
-#### Status-Client debian/ubuntu探针客户端 一键安装脚本(客户端-GO语言编写) ★推荐使用,无需安装依赖,单程序：
+#### Status-Client 探针客户端(debian/ubuntu) 一键安装脚本(客户端-GO语言编写) ★推荐使用,无需安装依赖,单程序：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/status-client.sh && chmod +x status-client.sh && bash status-client.sh
 ```
 
-#### Status Windows 探针客户端 GITHUB下载 [https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z "GITHUB下载")
+#### Status Windows探针客户端（可视化配置，无需敲指令） GITHUB下载：
+[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z "GITHUB下载")
 
-#### ServerStatus Windows 监控漂浮窗 GITHUB下载：[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip "GITHUB下载")
+#### ServerStatus Windows 监控漂浮窗 GITHUB下载：
+[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip "GITHUB下载")
 
 
 
