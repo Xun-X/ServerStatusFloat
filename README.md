@@ -90,9 +90,9 @@ bash status.sh c
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/status-client.sh && chmod +x status-client.sh && bash status-client.sh
 ```
 
-#### Status Windows 探针客户端 GITHUB下载 ![https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z)
+#### Status Windows 探针客户端 GITHUB下载 [https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z "GITHUB下载")
 
-#### ServerStatus Windows 监控漂浮窗 GITHUB下载：![https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip)
+#### ServerStatus Windows 监控漂浮窗 GITHUB下载：[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip "GITHUB下载")
 
 
 
