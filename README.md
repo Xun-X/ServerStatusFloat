@@ -71,16 +71,16 @@
 
 
 
-#### ServerStatus探针 服务端 安装：
+#### ServerStatus-Hotaru 探针一键安装脚本 服务端：
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/iiiiiii1/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
+wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh s
 ```
 
-#### ServerStatus探针 客户端 安装：
+#### ServerStatus-Hotaru 探针一键安装脚本 客户端：
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/iiiiiii1/doubi/master/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
+wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh c
 ```
