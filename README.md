@@ -38,7 +38,7 @@
 主程序收到数据会处理并显示出服务器实时的信息，抓取间隔时间可在设置中配置，建议2秒或以上
 
 ##### 设置简单说明：
-例：[哪吒探针]访问地址是：```http://tanzhen.hostname.com:808```
+例：[探针]访问地址是：```http://tanzhen.hostname.com:808```
 
 如图：
 ![](https://raw.githubusercontent.com/Xun-X/ServerStatusFloat/refs/heads/main/image/inages_5.png)
