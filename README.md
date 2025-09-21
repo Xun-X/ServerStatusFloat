@@ -75,14 +75,14 @@
 #### ServerStatus-Hotaru 探针主控端(debian/ubuntu/centos) 一键安装脚本(服务端)：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
-wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
+wget https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/status.sh
 bash status.sh s
 ```
 
 #### ServerStatus-Hotaru 探针客户端(debian/ubuntu/centos) 一键安装脚本(客户端)：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
-wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
+wget https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/status.sh
 bash status.sh c
 ```
 
