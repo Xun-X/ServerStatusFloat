@@ -97,12 +97,12 @@ wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/re
 #### ServerStatus Windows 监控漂浮窗 GITHUB下载：
 [https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip "GITHUB下载")
 
+.
 
 
+Windows版本的探针/漂浮窗都是编译发布版本，就不公开源码了(小白也看不懂)非主流语言编写的。再加上做得很粗糙，
 
-这是发布版本，就不公开源码了(小白也看不懂)非主流语言编写的。再加上做得很粗糙，就不放出来显摆(丟人現眼)了
-
-本程序无后门，无上传数据功能，启动会检查是否有新版本升级，此外无其他联网功能。
+就不放出来显摆(丟人現眼)了，程序无后门，无上传数据功能，启动会检查是否有新版本升级，此外无其他联网功能。
 
 ### 关于 [ 被害妄想症 ] 的完美解决方案
 方案1：`关闭这个页面(不开源的都是病毒见不得人，即使开源也看不懂`
