@@ -71,19 +71,26 @@
 
 
 
-#### ServerStatus-Hotaru 探针一键安装脚本 服务端：
+#### ServerStatus-Hotaru 探针主控端 一键安装脚本(服务端)：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh s
 ```
 
-#### ServerStatus-Hotaru 探针一键安装脚本 客户端：
+#### ServerStatus-Hotaru 探针客户端 一键安装脚本(客户端)：
 ```
 wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/caddy_install.sh && chmod +x caddy_install.sh && bash caddy_install.sh
 wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh
 bash status.sh c
 ```
+
+#### Status-Client 探针客户端 一键安装脚本(客户端-GO语言编写) ★推荐使用,无需安装依赖,单程序：
+```
+wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/status-client.sh && chmod +x status-client.sh && bash status-client.sh
+```
+
+
 #### 下载地址：
 GITHUB下载：[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip]([https://www.lanzouw.com/xxx](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip) "GITHUB下载")
 
