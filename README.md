@@ -4,7 +4,7 @@
 [![Xun-X](https://img.shields.io/static/v1?label=特别感谢&message=caddy&color=1081C2)](https://github.com/caddyserver/caddy)
 [![Xun-X](https://img.shields.io/static/v1?label=软件特点&message=便携、简易&color=48C21A)](https://github.com/Xun-X/ServerStatusFloat)
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=点击下载&color=F48041)](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip)
-[![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=v0.4.1&color=F7F720)](https://github.com/Xun-X/ServerStatusFloat#serverstatus-hotaru-%E6%8E%A2%E9%92%88%E4%B8%BB%E6%8E%A7%E7%AB%AFdebianubuntucentos-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E6%9C%8D%E5%8A%A1%E7%AB%AF)
+[![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=v0.4.X&color=F7F720)](https://github.com/Xun-X/ServerStatusFloat#serverstatus-hotaru-%E6%8E%A2%E9%92%88%E4%B8%BB%E6%8E%A7%E7%AB%AFdebianubuntucentos-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E6%9C%8D%E5%8A%A1%E7%AB%AF)
 
 探针漂浮窗，Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
 
@@ -12,7 +12,7 @@
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
-##### 注意：因为人懒，本项目不跟随官方最新版本更新，基于v0.4.X 版本开发，安装探针在底部有【一键脚本/说明】
+##### 注意：因为人懒，本项目不跟随官方最新版本更新，浮窗基于v0.4.X 版本开发，安装探针在底部有【一键脚本/说明】
 
 ## 效果展示：
 #### 详细主题 全显示
