@@ -8,7 +8,7 @@
 
 探针漂浮窗，Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
 
-关键词：`ServerStatus 探针漂浮窗` `ServerStatus-Hotaru 探针 漂浮窗` `ServerStatus 探针` `ServerStatus Windows 监视窗` `ServerStatus 漂浮窗`
+关键词：`ServerStatus 探针` `ServerStatus-Hotaru 探针 漂浮窗` `ServerStatus 监视窗` `ServerStatus 漂浮窗` `探针一键搭建`
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
