@@ -6,9 +6,9 @@
 [![Xun-X](https://img.shields.io/static/v1?label=获取方式&message=点击下载&color=F48041)](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip)
 [![Xun-X](https://img.shields.io/static/v1?label=兼容版本&message=v0.4.X&color=F7F720)](https://github.com/Xun-X/ServerStatusFloat#serverstatus-hotaru-%E6%8E%A2%E9%92%88%E4%B8%BB%E6%8E%A7%E7%AB%AFdebianubuntucentos-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC%E6%9C%8D%E5%8A%A1%E7%AB%AF)
 
-探针悬浮窗，Windows显示服务器监视飘浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
+探针悬浮窗，Windows显示服务器监视悬浮窗，实时监看服务器状态 (基于ServerStatus-Hotaru探针)
 
-关键词：`ServerStatus 探针` `ServerStatus-Hotaru 探针 悬浮窗` `ServerStatus 监视窗` `ServerStatus 悬浮窗` `探针一键搭建`
+关键词：`ServerStatus 探针` `ServerStatus-Hotaru` `悬浮监视窗` `ServerStatus 漂浮/悬浮窗` `探针 一键搭建`
 
 ##### 让我们一起共建庞大的监控室大爷团队，时刻掌握小鸡状态！
 
