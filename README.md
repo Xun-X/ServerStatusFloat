@@ -68,8 +68,9 @@
 不影响正常使用，也就直接发布了
 ```
 
-
-
+.
+## 下载/搭建主控端
+.
 
 #### ServerStatus-Hotaru 探针主控端(debian/ubuntu/centos) 一键安装脚本(服务端)：
 ```
