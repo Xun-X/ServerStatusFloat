@@ -81,7 +81,7 @@
 
 探针主控端：一台服务器负责汇集所有其他服务器数据并提供WEB访问页面（修改添加服务器可以通过bash ./status.sh s 进行配置，
 
-  也可以编辑/usr/local/ServerStatus/server/config.json 文件然后重启主控即可）
+　　也可以编辑/usr/local/ServerStatus/server/config.json 文件调整服务器顺序，然后 bash ./status.sh s 重启主控即可）
 
 探针客户端：可以把手上所有的服务器/电脑都安装上客户端，并配置好主控端服务器的IP地址和加入主控端的参数，即可把数据上传到主控端，在主控端即可方便查看已加入的服务器状态
 
