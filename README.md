@@ -79,7 +79,7 @@
 
 各端【作用/功能】说明
 
-探针主控端：一台服务器负责汇集所有其他服务器数据并提供WEB访问页面（修改添加探针可通过bash ./status.sh s 进行配置
+探针主控端：一台服务器负责汇集所有服务器数据并提供WEB访问页面（改删添探针可通过bash ./status.sh s 进行配置
 
 　　也可编辑/usr/local/ServerStatus/server/config.json 调整服务器顺序，然后 bash ./status.sh s 重启主控即可）
 
