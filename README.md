@@ -14,7 +14,7 @@
 
 ##### 注意：因为人懒，本项目不跟随官方最新版本更新，监控悬浮窗基于 ServerStatus-Hotaru v0.4.X 版本开发
 
-探针监视悬浮窗和对应版本探针服务端(主控)/客户端(被控)也都有对应的版本下载【[一键脚本/下载 点击](https://github.com/Xun-X/ServerStatusFloat/blob/main/README.md#%E6%90%AD%E5%BB%BA%E4%B8%BB%E6%8E%A7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E6%82%AC%E6%B5%AE%E7%AA%97%E4%B8%8B%E8%BD%BD%E6%8E%A2%E9%92%88)】
+探针监视悬浮窗和对应版本探针服务端(主控)/客户端(被控)也都有对应的版本下载【[一键脚本/下载 点击](https://github.com/Xun-X/ServerStatusFloat#%E6%90%AD%E5%BB%BA%E4%B8%BB%E6%8E%A7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E6%82%AC%E6%B5%AE%E7%AA%97%E4%B8%8B%E8%BD%BD%E6%8E%A2%E9%92%88)】
 
 ## 效果展示：
 #### 详细主题 全显示
@@ -60,6 +60,8 @@
 因为人比较懒，本项目不跟随原作者版本进行更新，基于ServerStatus v0.4.X制作，需要实现监看效果首先需有一台Linux服务器搭建主控端
 
 再把需要被监控的服务器装上探针，通过本程序配置好对应的服务器主控端的WEB，以及配置好需要显示的服务器信息即可方便地监看服务器状态
+
+（修改添加服务器可以通过bash ./status.sh s 进行配置，也可以编辑/usr/local/ServerStatus/server/config.json 文件然后重启主控即可）
 
 #### 更新历史
 更新版本(v1.8)：
