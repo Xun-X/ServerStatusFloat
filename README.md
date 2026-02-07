@@ -133,7 +133,7 @@ wget -N --no-check-certificate https://github.com/Xun-X/ServerStatusFloat/raw/re
 [https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/StatusWindows_amd64.7z "GITHUB下载")
 
 #### ServerStatus Windows 探针监控悬浮窗 GITHUB下载：
-[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip "GITHUB下载")
+[https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloat.zip](https://github.com/Xun-X/ServerStatusFloat/raw/refs/heads/main/download/ServerStatusFloatV1.81.7z "GITHUB下载")
 
 .
 
